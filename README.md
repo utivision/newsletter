@@ -1,0 +1,2 @@
+# newsletter
+PHP Newletter Framework
